@@ -1,0 +1,19 @@
+{
+  "name": "practice1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjiri-vadujkar/Nodejs.git"
+  },
+  "author": "manjiri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjiri-vadujkar/Nodejs/issues"
+  },
+  "homepage": "https://github.com/manjiri-vadujkar/Nodejs#readme"
+}

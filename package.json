@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manjiri-vadujkar/Nodejs/issues"
   },
-  "homepage": "https://github.com/manjiri-vadujkar/Nodejs#readme"
+  "homepage": "https://github.com/manjiri-vadujkar/Nodejs#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
